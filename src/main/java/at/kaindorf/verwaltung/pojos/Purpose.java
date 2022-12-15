@@ -1,4 +1,4 @@
-package at.kaindorf.pojos;
+package at.kaindorf.verwaltung.pojos;
 
 public class Purpose {
 

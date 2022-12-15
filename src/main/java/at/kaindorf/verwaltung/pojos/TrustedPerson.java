@@ -1,4 +1,4 @@
-package at.kaindorf.pojos;
+package at.kaindorf.verwaltung.pojos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

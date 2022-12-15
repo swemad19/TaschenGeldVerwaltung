@@ -1,4 +1,4 @@
-package at.kaindorf.pojos;
+package at.kaindorf.verwaltung.pojos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -7,9 +7,9 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-public class TransmitionMethod {
+public class Relation {
 
     private long id;
-    private String method;
+    private String relation;
 
 }
