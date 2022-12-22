@@ -12,4 +12,20 @@ public class DatabaseRequestHandler {
         }
         return instance;
     }
+
+    public String exportSaldenliste() {
+        return null;
+    }
+
+    public String exportDepotauskuenfte() {
+        return null;
+    }
+
+    public String exportDepotauskuenfteNegativ() {
+        return null;
+    }
+
+    public String exportDepotAuskunftEinzel() {
+        return null;
+    }
 }
